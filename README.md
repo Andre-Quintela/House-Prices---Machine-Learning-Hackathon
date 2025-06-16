@@ -53,7 +53,7 @@ Foram utilizadas bibliotecas como `Matplotlib`, `Seaborn` e `Plotly` para constr
 Hackathon/ <br>
 │ <br>
 ├── Hackathon.ipynb # Jupyter Notebook principal com todo o desenvolvimento <br>
-├── README.md # Este arquivo <br>
+├── README.md <br>
 └── train.csv
 
 ## 👥 Autoria
