@@ -50,10 +50,10 @@ O conjunto de dados contém características detalhadas das casas (como número 
 Foram utilizadas bibliotecas como `Matplotlib`, `Seaborn` e `Plotly` para construção de gráficos que ilustram os resultados dos modelos e insights da análise.
 
 ## 🗃 Estrutura do Projeto
-Hackathon/
-│
-├── Hackathon.ipynb # Jupyter Notebook principal com todo o desenvolvimento
-├── README.md # Este arquivo
+Hackathon/ <br>
+│ <br>
+├── Hackathon.ipynb # Jupyter Notebook principal com todo o desenvolvimento <br>
+├── README.md # Este arquivo <br>
 └── train.csv
 
 ## 👥 Autoria
